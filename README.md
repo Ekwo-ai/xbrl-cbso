@@ -1,3 +1,5 @@
+> **Moved.** This package now lives in [`Ekwo-ai/ekwo`](https://github.com/Ekwo-ai/ekwo) under `packages/formats/xbrl-cbso/`, still under MIT. This repository is archived and kept for history; open issues and pull requests there.
+
 # @ekwo-ai/xbrl-cbso
 
 Generate the XBRL file of Belgian annual accounts for the National Bank of Belgium
